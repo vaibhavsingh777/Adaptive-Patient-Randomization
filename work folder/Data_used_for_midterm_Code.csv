@@ -1,0 +1,251 @@
+ParticipantID,Name,Age,Diagnosis,BMI,Medication Status,Cholesterol Level (mg/dL),Enrollment Status,W_Strat,C_Strat
+1,Michael Thompson,48,Hypertension,24.3,On Medication,172,Enrolled,Healthy,too high
+2,Jessica Garcia,55,Type 2 Diabetes,28.1,Medication Naïve,195,Enrolled,Obese,too high
+3,Robert Wilson,31,Migraine,22.5,On Medication,158,Screening Failed,Healthy,borderline
+4,Laura Davis,62,Hypertension,26.8,On Medication,181,Enrolled,Obese,too high
+5,David Martinez,45,Type 2 Diabetes,29.3,Medication Naïve,164,Enrolled,Obese,too high
+6,Emily Brown,29,Migraine,20.7,On Medication,188,Enrolled,Healthy,too high
+7,James Miller,50,Hypertension,25.2,Medication Naïve,179,Enrolled,Obese,too high
+8,Olivia Jones,41,Type 2 Diabetes,27.0,On Medication,191,Enrolled,Obese,too high
+9,William Taylor,38,Migraine,21.1,Medication Naïve,160,Enrolled,Healthy,borderline
+10,Sophia Anderson,53,Hypertension,23.9,On Medication,176,Enrolled,Healthy,too high
+11,Jacob White,60,Type 2 Diabetes,28.8,On Medication,198,Screening Failed,Obese,too high
+12,Ava Lee,33,Migraine,24.6,Medication Naïve,170,Enrolled,Healthy,too high
+13,Daniel Harris,47,Hypertension,27.5,On Medication,185,Enrolled,Obese,too high
+14,Chloe Clark,58,Type 2 Diabetes,26.1,On Medication,174,Enrolled,Obese,too high
+15,Ethan Rodriguez,25,Migraine,20.1,Medication Naïve,152,Enrolled,Healthy,borderline
+16,Hannah Hall,51,Hypertension,29.5,On Medication,193,Enrolled,Obese,too high
+17,Alexander King,43,Type 2 Diabetes,23.4,Medication Naïve,167,Enrolled,Healthy,too high
+18,Mia Green,36,Migraine,21.8,On Medication,155,Screening Failed,Healthy,borderline
+19,Ben Carter,64,Hypertension,27.9,Medication Naïve,183,Enrolled,Obese,too high
+20,Zoe Adams,56,Type 2 Diabetes,25.0,On Medication,189,Enrolled,Healthy,too high
+21,Ryan Mitchell,49,Hypertension,24.1,Medication Naïve,175,Enrolled,Healthy,too high
+22,Natalie Perez,30,Migraine,23.7,On Medication,168,Enrolled,Healthy,too high
+23,Ethan Lewis,57,Type 2 Diabetes,26.5,On Medication,194,Enrolled,Obese,too high
+24,Lily Baker,44,Hypertension,28.3,Medication Naïve,180,Enrolled,Obese,too high
+25,Noah Wright,28,Migraine,20.5,On Medication,153,Enrolled,Healthy,borderline
+26,Grace Turner,52,Type 2 Diabetes,29.0,Medication Naïve,196,Enrolled,Obese,too high
+27,Sam Jones,35,Hypertension,22.8,On Medication,161,Enrolled,Healthy,too high
+28,Audrey Cook,63,Migraine,24.9,On Medication,177,Enrolled,Healthy,too high
+29,Leo Flores,40,Type 2 Diabetes,27.3,Medication Naïve,184,Enrolled,Obese,too high
+30,Hannah Young,59,Hypertension,25.6,On Medication,171,Enrolled,Obese,too high
+31,Jackson Scott,27,Migraine,20.9,Medication Naïve,159,Enrolled,Healthy,borderline
+32,Maria Parker,54,Type 2 Diabetes,28.6,On Medication,190,Screening Failed,Obese,too high
+33,Lucas Morris,46,Hypertension,24.7,Medication Naïve,173,Enrolled,Healthy,too high
+34,Victoria Ward,32,Migraine,23.2,On Medication,162,Enrolled,Healthy,too high
+35,Cole Bennett,50,Type 2 Diabetes,29.4,Medication Naïve,197,Enrolled,Obese,too high
+36,Lauren Cox,61,Hypertension,26.9,On Medication,182,Enrolled,Obese,too high
+37,Julian Torres,39,Migraine,21.4,Medication Naïve,166,Enrolled,Healthy,too high
+38,Sofia Hill,42,Type 2 Diabetes,27.1,On Medication,187,Enrolled,Obese,too high
+39,Jack Bell,55,Hypertension,25.8,Medication Naïve,178,Enrolled,Obese,too high
+40,Evelyn Nelson,65,Migraine,24.0,On Medication,151,Enrolled,Healthy,borderline
+41,Mason Kelly,49,Type 2 Diabetes,28.0,Medication Naïve,199,Enrolled,Obese,too high
+42,Aria Price,26,Hypertension,20.2,On Medication,154,Enrolled,Healthy,borderline
+43,Caleb Reed,34,Migraine,21.7,Medication Naïve,169,Enrolled,Healthy,too high
+44,Brooklyn Cooper,56,Type 2 Diabetes,29.1,On Medication,195,Enrolled,Obese,too high
+45,Hudson Bailey,43,Hypertension,27.6,Medication Naïve,186,Enrolled,Obese,too high
+46,Scarlett Fisher,57,Migraine,23.0,On Medication,173,Enrolled,Healthy,too high
+47,Gabriel Foster,51,Type 2 Diabetes,28.5,Medication Naïve,191,Enrolled,Obese,too high
+48,Nora Morgan,40,Hypertension,24.5,On Medication,177,Enrolled,Healthy,too high
+49,Isaac Ross,29,Migraine,22.1,Medication Naïve,160,Enrolled,Healthy,borderline
+50,Audrey Jenkins,53,Type 2 Diabetes,27.7,On Medication,180,Enrolled,Obese,too high
+51,Leo Ward,45,Hypertension,25.4,Medication Naïve,174,Enrolled,Obese,too high
+52,Stella Griffin,60,Migraine,24.8,On Medication,193,Enrolled,Healthy,too high
+53,Wyatt Cole,37,Type 2 Diabetes,28.2,Medication Naïve,189,Enrolled,Obese,too high
+54,Hazel Simmons,58,Hypertension,26.6,On Medication,176,Enrolled,Obese,too high
+55,Adam Hughes,30,Migraine,20.3,Medication Naïve,157,Enrolled,Healthy,borderline
+56,Penelope Bell,52,Type 2 Diabetes,29.6,On Medication,198,Enrolled,Obese,too high
+57,Carter Murphy,48,Hypertension,25.9,Medication Naïve,184,Enrolled,Obese,too high
+58,Sophie Evans,35,Migraine,21.0,On Medication,163,Enrolled,Healthy,too high
+59,Connor Wilson,64,Type 2 Diabetes,28.7,Medication Naïve,194,Enrolled,Obese,too high
+60,Lillian Hayes,41,Hypertension,27.2,On Medication,179,Enrolled,Obese,too high
+61,Nolan King,59,Migraine,23.6,Medication Naïve,167,Enrolled,Healthy,too high
+62,Isla Walker,44,Type 2 Diabetes,26.0,On Medication,192,Enrolled,Obese,too high
+63,Eli Carter,56,Hypertension,28.0,Medication Naïve,178,Enrolled,Obese,too high
+64,Luna Cooper,33,Migraine,20.8,On Medication,156,Enrolled,Healthy,borderline
+65,Oliver Reed,62,Type 2 Diabetes,29.8,Medication Naïve,199,Enrolled,Obese,too high
+66,Lucy Foster,47,Hypertension,25.1,On Medication,182,Enrolled,Obese,too high
+67,Owen Price,38,Migraine,22.3,Medication Naïve,168,Enrolled,Healthy,too high
+68,Harper Green,51,Type 2 Diabetes,27.4,On Medication,185,Enrolled,Obese,too high
+69,Lucas Patterson,49,Hypertension,24.4,Medication Naïve,172,Enrolled,Healthy,too high
+70,Zoe Nelson,63,Migraine,24.2,On Medication,175,Enrolled,Healthy,too high
+71,Jackson Ross,25,Type 2 Diabetes,29.7,Medication Naïve,196,Enrolled,Obese,too high
+72,Amelia Turner,50,Hypertension,28.9,On Medication,190,Enrolled,Obese,too high
+73,Leo Morgan,42,Migraine,21.6,Medication Naïve,161,Enrolled,Healthy,too high
+74,Riley Hill,57,Type 2 Diabetes,26.7,On Medication,193,Enrolled,Obese,too high
+75,Elijah Bennett,30,Hypertension,20.6,Medication Naïve,153,Enrolled,Healthy,borderline
+76,Chloe Adams,36,Migraine,23.1,On Medication,164,Enrolled,Healthy,too high
+77,Matthew Wright,53,Type 2 Diabetes,28.4,Medication Naïve,191,Enrolled,Obese,too high
+78,Hannah Baker,40,Hypertension,25.7,On Medication,170,Enrolled,Obese,too high
+79,Mason Lee,55,Migraine,24.1,Medication Naïve,174,Enrolled,Healthy,too high
+80,Ava Taylor,60,Type 2 Diabetes,29.2,On Medication,197,Enrolled,Obese,too high
+81,Oliver Wilson,48,Hypertension,26.5,Medication Naïve,181,Enrolled,Obese,too high
+82,Abigail Clark,32,Migraine,22.9,On Medication,162,Enrolled,Healthy,too high
+83,Julian King,59,Type 2 Diabetes,27.8,Medication Naïve,188,Enrolled,Obese,too high
+84,Grace Davis,45,Hypertension,24.3,On Medication,172,Enrolled,Healthy,too high
+85,Ethan Garcia,28,Migraine,20.4,Medication Naïve,150,Enrolled,Healthy,borderline
+86,Zoe Rodriguez,51,Type 2 Diabetes,29.5,On Medication,195,Enrolled,Obese,too high
+87,Gabriel Perez,61,Hypertension,28.3,Medication Naïve,183,Enrolled,Obese,too high
+88,Lily Walker,37,Migraine,21.2,On Medication,166,Enrolled,Healthy,too high
+89,Lucas Turner,54,Type 2 Diabetes,28.6,Medication Naïve,190,Enrolled,Obese,too high
+90,Mia Evans,49,Hypertension,25.1,On Medication,175,Enrolled,Obese,too high
+91,Noah Foster,34,Migraine,23.5,Medication Naïve,169,Enrolled,Healthy,too high
+92,Sophie Morris,58,Type 2 Diabetes,27.0,On Medication,194,Enrolled,Obese,too high
+93,Jack Lewis,46,Hypertension,24.7,Medication Naïve,171,Enrolled,Healthy,too high
+94,Chloe Wright,52,Migraine,24.0,On Medication,178,Enrolled,Healthy,too high
+95,Adam Cook,39,Type 2 Diabetes,29.1,Medication Naïve,197,Enrolled,Obese,too high
+96,Ella Bell,60,Hypertension,25.8,On Medication,182,Enrolled,Obese,too high
+97,Ben Carter,26,Migraine,20.6,Medication Naïve,153,Enrolled,Healthy,borderline
+98,Olivia Hall,55,Type 2 Diabetes,28.5,On Medication,191,Enrolled,Obese,too high
+99,Daniel Green,43,Hypertension,27.1,Medication Naïve,187,Enrolled,Obese,too high
+100,Sarah Adams,31,Migraine,21.9,On Medication,160,Enrolled,Healthy,borderline
+101,John Thompson,45,Hypertension,24.8,On Medication,173,Enrolled,Healthy,too high
+102,Emily Davis,52,Type 2 Diabetes,28.0,Medication Naïve,190,Enrolled,Obese,too high
+103,William Miller,38,Migraine,22.3,On Medication,165,Enrolled,Healthy,too high
+104,Olivia Wilson,61,Hypertension,26.7,On Medication,182,Enrolled,Obese,too high
+105,James Garcia,49,Type 2 Diabetes,29.1,Medication Naïve,194,Enrolled,Obese,too high
+106,Ava Brown,28,Migraine,20.5,On Medication,154,Enrolled,Healthy,borderline
+107,Benjamin Jones,55,Hypertension,25.2,Medication Naïve,179,Enrolled,Obese,too high
+108,Sophia Rodriguez,41,Type 2 Diabetes,27.0,On Medication,187,Enrolled,Obese,too high
+109,Jacob Hernandez,36,Migraine,21.8,Medication Naïve,161,Enrolled,Healthy,too high
+110,Isabella Martinez,53,Hypertension,24.6,On Medication,176,Enrolled,Healthy,too high
+111,Michael Clark,60,Type 2 Diabetes,28.8,On Medication,198,Enrolled,Obese,too high
+112,Harper Lee,33,Migraine,24.6,Medication Naïve,170,Enrolled,Healthy,too high
+113,Ethan Lewis,47,Hypertension,27.5,On Medication,185,Enrolled,Obese,too high
+114,Amelia King,58,Type 2 Diabetes,26.1,On Medication,174,Enrolled,Obese,too high
+115,Alexander Wright,25,Migraine,20.1,Medication Naïve,152,Enrolled,Healthy,borderline
+116,Lily Perez,51,Hypertension,29.5,On Medication,193,Enrolled,Obese,too high
+117,Noah Hall,43,Type 2 Diabetes,23.4,Medication Naïve,167,Enrolled,Healthy,too high
+118,Mia Green,36,Migraine,21.8,On Medication,155,Enrolled,Healthy,borderline
+119,Ben Carter,64,Hypertension,27.9,Medication Naïve,183,Enrolled,Obese,too high
+120,Zoe Adams,56,Type 2 Diabetes,25.0,On Medication,189,Enrolled,Healthy,too high
+121,Ryan Mitchell,49,Hypertension,24.1,Medication Naïve,175,Enrolled,Healthy,too high
+122,Natalie Perez,30,Migraine,23.7,On Medication,168,Enrolled,Healthy,too high
+123,Ethan Lewis,57,Type 2 Diabetes,26.5,On Medication,194,Enrolled,Obese,too high
+124,Lily Baker,44,Hypertension,28.3,Medication Naïve,180,Enrolled,Obese,too high
+125,Noah Wright,28,Migraine,20.5,On Medication,153,Enrolled,Healthy,borderline
+126,Grace Turner,52,Type 2 Diabetes,29.0,Medication Naïve,196,Enrolled,Obese,too high
+127,Sam Jones,35,Hypertension,22.8,On Medication,161,Enrolled,Healthy,too high
+128,Audrey Cook,63,Migraine,24.9,On Medication,177,Enrolled,Healthy,too high
+129,Leo Flores,40,Type 2 Diabetes,27.3,Medication Naïve,184,Enrolled,Obese,too high
+130,Hannah Young,59,Hypertension,25.6,On Medication,171,Enrolled,Obese,too high
+131,Jackson Scott,27,Migraine,20.9,Medication Naïve,159,Enrolled,Healthy,borderline
+132,Maria Parker,54,Type 2 Diabetes,28.6,On Medication,190,Enrolled,Obese,too high
+133,Lucas Morris,46,Hypertension,24.7,Medication Naïve,173,Enrolled,Healthy,too high
+134,Victoria Ward,32,Migraine,23.2,On Medication,162,Enrolled,Healthy,too high
+135,Cole Bennett,50,Type 2 Diabetes,29.4,Medication Naïve,197,Enrolled,Obese,too high
+136,Lauren Cox,61,Hypertension,26.9,On Medication,182,Enrolled,Obese,too high
+137,Julian Torres,39,Migraine,21.4,Medication Naïve,166,Enrolled,Healthy,too high
+138,Sofia Hill,42,Type 2 Diabetes,27.1,On Medication,187,Enrolled,Obese,too high
+139,Jack Bell,55,Hypertension,25.8,Medication Naïve,178,Enrolled,Obese,too high
+140,Evelyn Nelson,65,Migraine,24.0,On Medication,151,Enrolled,Healthy,borderline
+141,Mason Kelly,49,Type 2 Diabetes,28.0,Medication Naïve,199,Enrolled,Obese,too high
+142,Aria Price,26,Hypertension,20.2,On Medication,154,Enrolled,Healthy,borderline
+143,Caleb Reed,34,Migraine,21.7,Medication Naïve,169,Enrolled,Healthy,too high
+144,Brooklyn Cooper,56,Type 2 Diabetes,29.1,On Medication,195,Enrolled,Obese,too high
+145,Hudson Bailey,43,Hypertension,27.6,Medication Naïve,186,Enrolled,Obese,too high
+146,Scarlett Fisher,57,Migraine,23.0,On Medication,173,Enrolled,Healthy,too high
+147,Gabriel Foster,51,Type 2 Diabetes,28.5,Medication Naïve,191,Enrolled,Obese,too high
+148,Nora Morgan,40,Hypertension,24.5,On Medication,177,Enrolled,Healthy,too high
+149,Isaac Ross,29,Migraine,22.1,Medication Naïve,160,Enrolled,Healthy,borderline
+150,Audrey Jenkins,53,Type 2 Diabetes,27.7,On Medication,180,Enrolled,Obese,too high
+151,Leo Ward,45,Hypertension,25.4,Medication Naïve,174,Enrolled,Obese,too high
+152,Stella Griffin,60,Migraine,24.8,On Medication,193,Enrolled,Healthy,too high
+153,Wyatt Cole,37,Type 2 Diabetes,28.2,Medication Naïve,189,Enrolled,Obese,too high
+154,Hazel Simmons,58,Hypertension,26.6,On Medication,176,Enrolled,Obese,too high
+155,Adam Hughes,30,Migraine,20.3,Medication Naïve,157,Enrolled,Healthy,borderline
+156,Penelope Bell,52,Type 2 Diabetes,29.6,On Medication,198,Enrolled,Obese,too high
+157,Carter Murphy,48,Hypertension,25.9,Medication Naïve,184,Enrolled,Obese,too high
+158,Sophie Evans,35,Migraine,21.0,On Medication,163,Enrolled,Healthy,too high
+159,Connor Wilson,64,Type 2 Diabetes,28.7,Medication Naïve,194,Enrolled,Obese,too high
+160,Lillian Hayes,41,Hypertension,27.2,On Medication,179,Enrolled,Obese,too high
+161,Nolan King,59,Migraine,23.6,Medication Naïve,167,Enrolled,Healthy,too high
+162,Isla Walker,44,Type 2 Diabetes,26.0,On Medication,192,Enrolled,Obese,too high
+163,Eli Carter,56,Hypertension,28.0,Medication Naïve,178,Enrolled,Obese,too high
+164,Luna Cooper,33,Migraine,20.8,On Medication,156,Enrolled,Healthy,borderline
+165,Oliver Reed,62,Type 2 Diabetes,29.8,Medication Naïve,199,Enrolled,Obese,too high
+166,Lucy Foster,47,Hypertension,25.1,On Medication,182,Enrolled,Obese,too high
+167,Owen Price,38,Migraine,22.3,Medication Naïve,168,Enrolled,Healthy,too high
+168,Harper Green,51,Type 2 Diabetes,27.4,On Medication,185,Enrolled,Obese,too high
+169,Lucas Patterson,49,Hypertension,24.4,Medication Naïve,172,Enrolled,Healthy,too high
+170,Zoe Nelson,63,Migraine,24.2,On Medication,175,Enrolled,Healthy,too high
+171,Jackson Ross,25,Type 2 Diabetes,29.7,Medication Naïve,196,Enrolled,Obese,too high
+172,Amelia Turner,50,Hypertension,28.9,On Medication,190,Enrolled,Obese,too high
+173,Leo Morgan,42,Migraine,21.6,Medication Naïve,161,Enrolled,Healthy,too high
+174,Riley Hill,57,Type 2 Diabetes,26.7,On Medication,193,Enrolled,Obese,too high
+175,Elijah Bennett,30,Hypertension,20.6,Medication Naïve,153,Enrolled,Healthy,borderline
+176,Chloe Adams,36,Migraine,23.1,On Medication,164,Enrolled,Healthy,too high
+177,Matthew Wright,53,Type 2 Diabetes,28.4,Medication Naïve,191,Enrolled,Obese,too high
+178,Hannah Baker,40,Hypertension,25.7,On Medication,170,Enrolled,Obese,too high
+179,Mason Lee,55,Migraine,24.1,Medication Naïve,174,Enrolled,Healthy,too high
+180,Ava Taylor,60,Type 2 Diabetes,29.2,On Medication,197,Enrolled,Obese,too high
+181,Oliver Wilson,48,Hypertension,26.5,Medication Naïve,181,Enrolled,Obese,too high
+182,Abigail Clark,32,Migraine,22.9,On Medication,162,Enrolled,Healthy,too high
+183,Julian King,59,Type 2 Diabetes,27.8,Medication Naïve,188,Enrolled,Obese,too high
+184,Grace Davis,45,Hypertension,24.3,On Medication,172,Enrolled,Healthy,too high
+185,Ethan Garcia,28,Migraine,20.4,Medication Naïve,150,Enrolled,Healthy,borderline
+186,Zoe Rodriguez,51,Type 2 Diabetes,29.5,On Medication,195,Enrolled,Obese,too high
+187,Gabriel Perez,61,Hypertension,28.3,Medication Naïve,183,Enrolled,Obese,too high
+188,Lily Walker,37,Migraine,21.2,On Medication,166,Enrolled,Healthy,too high
+189,Lucas Turner,54,Type 2 Diabetes,28.6,Medication Naïve,190,Enrolled,Obese,too high
+190,Mia Evans,49,Hypertension,25.1,On Medication,175,Enrolled,Obese,too high
+191,Noah Foster,34,Migraine,23.5,Medication Naïve,169,Enrolled,Healthy,too high
+192,Sophie Morris,58,Type 2 Diabetes,27.0,On Medication,194,Enrolled,Obese,too high
+193,Jack Lewis,46,Hypertension,24.7,Medication Naïve,171,Enrolled,Healthy,too high
+194,Chloe Wright,52,Migraine,24.0,On Medication,178,Enrolled,Healthy,too high
+195,Adam Cook,39,Type 2 Diabetes,29.1,Medication Naïve,197,Enrolled,Obese,too high
+196,Ella Bell,60,Hypertension,25.8,On Medication,182,Enrolled,Obese,too high
+197,Ben Carter,26,Migraine,20.6,Medication Naïve,153,Enrolled,Healthy,borderline
+198,Olivia Hall,55,Type 2 Diabetes,28.5,On Medication,191,Enrolled,Obese,too high
+199,Daniel Green,43,Hypertension,27.1,Medication Naïve,187,Enrolled,Obese,too high
+200,Sarah Adams,31,Migraine,21.9,On Medication,160,Enrolled,Healthy,borderline
+201,John Thompson,45,Hypertension,24.8,On Medication,173,Enrolled,Healthy,too high
+202,Emily Davis,52,Type 2 Diabetes,28.0,Medication Naïve,190,Enrolled,Obese,too high
+203,William Miller,38,Migraine,22.3,On Medication,165,Enrolled,Healthy,too high
+204,Olivia Wilson,61,Hypertension,26.7,On Medication,182,Enrolled,Obese,too high
+205,James Garcia,49,Type 2 Diabetes,29.1,Medication Naïve,194,Enrolled,Obese,too high
+206,Ava Brown,28,Migraine,20.5,On Medication,154,Enrolled,Healthy,borderline
+207,Benjamin Jones,55,Hypertension,25.2,Medication Naïve,179,Enrolled,Obese,too high
+208,Sophia Rodriguez,41,Type 2 Diabetes,27.0,On Medication,187,Enrolled,Obese,too high
+209,Jacob Hernandez,36,Migraine,21.8,Medication Naïve,161,Enrolled,Healthy,too high
+210,Isabella Martinez,53,Hypertension,24.6,On Medication,176,Enrolled,Healthy,too high
+211,Michael Clark,60,Type 2 Diabetes,28.8,On Medication,198,Enrolled,Obese,too high
+212,Harper Lee,33,Migraine,24.6,Medication Naïve,170,Enrolled,Healthy,too high
+213,Ethan Lewis,47,Hypertension,27.5,On Medication,185,Enrolled,Obese,too high
+214,Amelia King,58,Type 2 Diabetes,26.1,On Medication,174,Enrolled,Obese,too high
+215,Alexander Wright,25,Migraine,20.1,Medication Naïve,152,Enrolled,Healthy,borderline
+216,Lily Perez,51,Hypertension,29.5,On Medication,193,Enrolled,Obese,too high
+217,Noah Hall,43,Type 2 Diabetes,23.4,Medication Naïve,167,Enrolled,Healthy,too high
+218,Mia Green,36,Migraine,21.8,On Medication,155,Enrolled,Healthy,borderline
+219,Ben Carter,64,Hypertension,27.9,Medication Naïve,183,Enrolled,Obese,too high
+220,Zoe Adams,56,Type 2 Diabetes,25.0,On Medication,189,Enrolled,Healthy,too high
+221,Ryan Mitchell,49,Hypertension,24.1,Medication Naïve,175,Enrolled,Healthy,too high
+222,Natalie Perez,30,Migraine,23.7,On Medication,168,Enrolled,Healthy,too high
+223,Ethan Lewis,57,Type 2 Diabetes,26.5,On Medication,194,Enrolled,Obese,too high
+224,Lily Baker,44,Hypertension,28.3,Medication Naïve,180,Enrolled,Obese,too high
+225,Noah Wright,28,Migraine,20.5,On Medication,153,Enrolled,Healthy,borderline
+226,Grace Turner,52,Type 2 Diabetes,29.0,Medication Naïve,196,Enrolled,Obese,too high
+227,Sam Jones,35,Hypertension,22.8,On Medication,161,Enrolled,Healthy,too high
+228,Audrey Cook,63,Migraine,24.9,On Medication,177,Enrolled,Healthy,too high
+229,Leo Flores,40,Type 2 Diabetes,27.3,Medication Naïve,184,Enrolled,Obese,too high
+230,Hannah Young,59,Hypertension,25.6,On Medication,171,Enrolled,Obese,too high
+231,Jackson Scott,27,Migraine,20.9,Medication Naïve,159,Enrolled,Healthy,borderline
+232,Maria Parker,54,Type 2 Diabetes,28.6,On Medication,190,Enrolled,Obese,too high
+233,Lucas Morris,46,Hypertension,24.7,Medication Naïve,173,Enrolled,Healthy,too high
+234,Victoria Ward,32,Migraine,23.2,On Medication,162,Enrolled,Healthy,too high
+235,Cole Bennett,50,Type 2 Diabetes,29.4,Medication Naïve,197,Enrolled,Obese,too high
+236,Lauren Cox,61,Hypertension,26.9,On Medication,182,Enrolled,Obese,too high
+237,Julian Torres,39,Migraine,21.4,Medication Naïve,166,Enrolled,Healthy,too high
+238,Sofia Hill,42,Type 2 Diabetes,27.1,On Medication,187,Enrolled,Obese,too high
+239,Jack Bell,55,Hypertension,25.8,Medication Naïve,178,Enrolled,Obese,too high
+240,Evelyn Nelson,65,Migraine,24.0,On Medication,151,Enrolled,Healthy,borderline
+241,Mason Kelly,49,Type 2 Diabetes,28.0,Medication Naïve,199,Enrolled,Obese,too high
+242,Aria Price,26,Hypertension,20.2,On Medication,154,Enrolled,Healthy,borderline
+243,Caleb Reed,34,Migraine,21.7,Medication Naïve,169,Enrolled,Healthy,too high
+244,Brooklyn Cooper,56,Type 2 Diabetes,29.1,On Medication,195,Enrolled,Obese,too high
+245,Hudson Bailey,43,Hypertension,27.6,Medication Naïve,186,Enrolled,Obese,too high
+246,Scarlett Fisher,57,Migraine,23.0,On Medication,173,Enrolled,Healthy,too high
+247,Gabriel Foster,51,Type 2 Diabetes,28.5,Medication Naïve,191,Enrolled,Obese,too high
+248,Nora Morgan,40,Hypertension,24.5,On Medication,177,Enrolled,Healthy,too high
+249,Isaac Ross,29,Migraine,22.1,Medication Naïve,160,Enrolled,Healthy,borderline
+250,Audrey Jenkins,53,Type 2 Diabetes,27.7,On Medication,180,Enrolled,Obese,too high
